@@ -1,0 +1,29 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "E348252F-1",
+    "build_number": 1,
+    "build_time": 1591721082810,
+    "release": false
+  },
+  "encryptLevel": 1,
+  "useFeatures": [],
+  "icon": "res/logo.png",
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": false,
+    "splashIcon": "res/splashIcon.png",
+    "splashText": "小时不努力,老大写脚本",
+    "stableMode": false
+  },
+  "main": "main.js",
+  "name": "传奇云辅助",
+  "optimization": {
+    "removeOpenCv": false,
+    "unusedResources": false
+  },
+  "packageName": "com.cloud",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "1.3.17"
+}
